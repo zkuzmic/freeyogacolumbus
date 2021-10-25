@@ -2,7 +2,7 @@
 templateKey: index-page
 image: /img/fyc.jpeg
 sidebar:
-  title: brought to you by
+  title: Brought to you by Darlene Kuzmic
   link: google.com
   contact: contact
   photo: /img/fyc.jpeg
