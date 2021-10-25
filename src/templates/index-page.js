@@ -1,148 +1,148 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
 
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import Layout from "../components/Layout";
+import BlogRoll from "../components/BlogRoll";
 
 export const IndexPageTemplate = ({
   image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
-}) => (
-  <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    >
+  sidebar,
+  healthWarning,
+  currentClasses,
+}) => {
+  console.log(currentClasses);
+  return (
+    <div>
       <div
+        className="full-width-image margin-top-0"
         style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
+          backgroundPosition: `top left`,
+          backgroundAttachment: `fixed`,
         }}
-      >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {title}
-        </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {subheading}
-        </h3>
-      </div>
-    </div>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
+      ></div>
+      <section className="section section--gradient">
+        <div className="container">
+          <div className="section">
+            <div className="columns">
+              <div className="column is-6 is-offset-1">
                 <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+                  <p style={{ fontStyle: "italic" }}>{healthWarning}</p>
+                  <h2>Current Classes</h2>
+                  {currentClasses.map((c) => {
+                    return (
+                      <div
+                        key={c.title}
+                        style={{
+                          borderLeft: "3px solid lightgray",
+                          paddingLeft: "15px",
+                          paddingTop: "16px",
+                          paddingBottom: "16px",
+                          marginBottom: "24px",
+                        }}
+                      >
+                        <h4>{c.title}</h4>
+                        <p>
+                          <b>What: </b>
+                          {c.what}
+                        </p>
+                        <p>
+                          <b>When: </b>
+                          {c.when}
+                        </p>
+
+                        <p>
+                          <b>Where: </b>
+                          {c.where}
+                        </p>
+                      </div>
+                    );
+                  })}
                 </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                <BlogRoll />
+              </div>
+              <div className="column is-4">
+                <a
+                  className="has-background-white-ter box"
+                  style={{
+                    backgroundColor: "whitesmoke",
+                    display: "block",
+                    paddingBottom: "24px",
+                  }}
+                  href={sidebar.link}
+                >
+                  <h3 className="is-size-6 has-text-weight-semibold">
+                    {sidebar.title}
                   </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
+                  <div
+                    style={{
+                      display: "flex",
+                      alignItems: "flex-start",
+                      marginTop: "15px",
+                      width: "100%",
+                    }}
+                  >
+                    <img
+                      src={
+                        !!sidebar.photo.childImageSharp
+                          ? sidebar.photo.childImageSharp.fluid.src
+                          : sidebar.photo
+                      }
+                      alt="Darlene Kuzmic"
+                      style={{
+                        marginRight: "5px",
+                        flexShrink: "1",
+                        maxWidth: `${(120 / 340) * 100}%`,
+                      }}
+                    />
+                    <img
+                      src={
+                        !!sidebar.logo.childImageSharp
+                          ? sidebar.logo.childImageSharp.fluid.src
+                          : sidebar.logo
+                      }
+                      style={{
+                        flexShrink: "1",
+                        maxWidth: `${(215 / 340) * 100}%`,
+                      }}
+                      alt="ERA Real Estate"
+                    />
                   </div>
-                </div>
+                </a>
+                <div style={{ marginTop: "24px" }}>{sidebar.contact}</div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-  </div>
-)
+      </section>
+    </div>
+  );
+};
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
-}
+  sidebar: PropTypes.object,
+  healthWarning: PropTypes.string,
+  currentClasses: PropTypes.object,
+};
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        sidebar={frontmatter.sidebar}
+        healthWarning={frontmatter.healthWarning}
+        currentClasses={frontmatter.currentClasses}
       />
     </Layout>
-  )
-}
+  );
+};
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
@@ -150,15 +150,14 @@ IndexPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default IndexPage
+export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -166,28 +165,33 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading
-        subheading
-        mainpitch {
+        sidebar {
           title
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
+          link
+          contact
+          photo {
+            childImageSharp {
+              fluid(maxWidth: 120, quality: 100) {
+                ...GatsbyImageSharpFluid
               }
             }
-            text
           }
-          heading
-          description
+          logo {
+            childImageSharp {
+              fluid(maxWidth: 215, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+        healthWarning
+        currentClasses {
+          title
+          when
+          what
+          where
         }
       }
     }
   }
-`
+`;
