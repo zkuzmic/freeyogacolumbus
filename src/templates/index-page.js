@@ -61,6 +61,9 @@ export const IndexPageTemplate = ({
                     );
                   })}
                 </div>
+                <div className="content" style={{ marginTop: "60px" }}>
+                  <h2>Blog</h2>
+                </div>
                 <BlogRoll />
               </div>
               <div className="column is-4">
@@ -92,9 +95,9 @@ export const IndexPageTemplate = ({
                       }
                       alt="Darlene Kuzmic"
                       style={{
-                        marginRight: "5px",
+                        marginRight: "15px",
                         flexShrink: "1",
-                        maxWidth: `${(120 / 340) * 100}%`,
+                        maxWidth: `${(120 / 350) * 100}%`,
                       }}
                     />
                     <img
@@ -105,7 +108,7 @@ export const IndexPageTemplate = ({
                       }
                       style={{
                         flexShrink: "1",
-                        maxWidth: `${(215 / 340) * 100}%`,
+                        maxWidth: `${(215 / 350) * 100}%`,
                       }}
                       alt="ERA Real Estate"
                     />

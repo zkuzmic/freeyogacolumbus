@@ -60,7 +60,7 @@ collections:
                   { label: Link, name: link, widget: string },
                   { label: Photo, name: photo, widget: image },
                   { label: Logo, name: logo, widget: image },
-                  { label: Contact, name: contact, widget: text },
+                  { label: Contact, name: contact, widget: markdown },
                 ],
             }
           - { label: Health Warning, name: healthWarning, widget: text }
