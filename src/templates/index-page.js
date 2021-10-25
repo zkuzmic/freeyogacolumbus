@@ -1,9 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
+import { remark } from "remark";
+import recommended from "remark-preset-lint-recommended";
+import remarkHtml from "remark-html";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
+import { HTMLContent } from "../components/Content";
 
 export const IndexPageTemplate = ({
   image,
@@ -11,6 +15,12 @@ export const IndexPageTemplate = ({
   healthWarning,
   currentClasses,
 }) => {
+  const sidebarContactHTML = remark()
+    .use(recommended)
+    .use(remarkHtml)
+    .processSync(sidebar.contact)
+    .toString();
+
   return (
     <div>
       <div
@@ -114,7 +124,9 @@ export const IndexPageTemplate = ({
                     />
                   </div>
                 </a>
-                <div style={{ marginTop: "24px" }}>{sidebar.contact}</div>
+                <div style={{ marginTop: "24px" }}>
+                  <HTMLContent content={sidebarContactHTML} />
+                </div>
               </div>
             </div>
           </div>
