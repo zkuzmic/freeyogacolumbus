@@ -71,7 +71,6 @@ collections:
               fields:
                 [
                   { label: Title, name: title, widget: text },
-                  { label: Description, name: description, widget: text },
                   { label: When, name: when, widget: text },
                   { label: What, name: what, widget: text },
                   { label: Where, name: where, widget: text },
