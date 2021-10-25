@@ -11,7 +11,6 @@ export const IndexPageTemplate = ({
   healthWarning,
   currentClasses,
 }) => {
-  console.log(currentClasses);
   return (
     <div>
       <div
@@ -126,7 +125,7 @@ IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   sidebar: PropTypes.object,
   healthWarning: PropTypes.string,
-  currentClasses: PropTypes.object,
+  currentClasses: PropTypes.array,
 };
 
 const IndexPage = ({ data }) => {

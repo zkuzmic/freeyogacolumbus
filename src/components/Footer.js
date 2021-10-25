@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "gatsby";
 
 const Footer = class extends React.Component {
   render() {
@@ -10,9 +9,9 @@ const Footer = class extends React.Component {
       >
         <div className="content has-text-centered">
           Brought to you by&nbsp;
-          <Link to="https://teamkuzmic.com/">
+          <a href="https://teamkuzmic.com/">
             Darlene Kuzmic, ERA Real Solutions Realty
-          </Link>
+          </a>
         </div>
       </footer>
     );
