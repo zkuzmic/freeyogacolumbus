@@ -25,12 +25,12 @@ currentClasses:
 
       On November 20, ONLY, we will be at Epiphany Lutheran Church, preschool entry, 268 Hill Road North, Pickerington, OH 43147 because Pickerington Nazarene Church has a conflict on scheduled activities in the area we usually use for yoga then returning to Pickerington Nazarene through the end of the year. We will NOT have class Thanksgiving, Christmas, or New Years weekends (Saturday, November 27, Saturday, December 25, 2021, and January 1, 2022). Then we will have class at Epiphany Lutheran from January 8 through February 26, 2022. 
   - title: FREE – 20/20/20 Fitness Class
-    when: 7am every Wednesday, beginning June 29, 2021
+    when: 7am every Wednesday
     what: Get rid of those extra 20 lbs from 2020! This is a combined class called
       “20/20/20”. The class consists of 20 minutes step (step provided), 20
       minutes stability ball (bring your own along with hand weights), and 20
-      minutes of yoga (bring your mat).
-    where: Victory Park basketball court or shelter house across from Pickerington
-      City Hall, 100 Lockville Road, Pickerington 43147. When the weather gets
-      colder, an indoor location will be noted here.
+      minutes of yoga (bring your mat). Please let me know you're coming so I
+      can bring an extra step and/or stability ball if you do not have one.
+    where: Pickerington Nazarene Church, (Pick Naz) 11775 Pickerington Road,
+      Pickerington, Ohio, 43147
 ---
