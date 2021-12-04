@@ -20,8 +20,9 @@ currentClasses:
       bottles, red and blue, for the Pickerington Lions Club. Please bring your
       own mat and water bottle.
     where: >-
-      Pickerington Nazarene Church, (Pick Naz) 11775 Pickerington Road,
-      Pickerington, Ohio, 43147
+      December 4, meet at Epiphany Lutheran. 268 Hill Road North, Pickerington,
+      OH 43147, then meet at Pickerington Nazarene Church, (Pick Naz) 11775
+      Pickerington Road, Pickerington, Ohio, 43147 for December 11 and 18, 2021.
 
       We will NOT have class Christmas Day, or New Years weekends (Saturday, December 25, 2021, and January 1, 2022). Then we will have class at Epiphany Lutheran, 268 Hill Road North, Pickerington, OH 43147 from January 8 through February 26, 2022. 
   - title: FREE – 20/20/20 Fitness Class
