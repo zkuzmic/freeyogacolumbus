@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-image: /img/fyc.jpeg
+image: /img/screen.jpg
 sidebar:
   title: Brought to you by Darlene Kuzmic
   link: http://teamkuzmic.com/
@@ -19,12 +19,12 @@ currentClasses:
       Pickerington food pantry, as well as used eyeglasses and used medicine
       bottles, red and blue, for the Pickerington Lions Club. Please bring your
       own mat and water bottle.
-    where: >-
-      December 4, meet at Epiphany Lutheran. 268 Hill Road North, Pickerington,
-      OH 43147, then meet at Pickerington Nazarene Church, (Pick Naz) 11775
-      Pickerington Road, Pickerington, Ohio, 43147 for December 11 and 18, 2021.
-
-      We will NOT have class Christmas Day, or New Years weekends (Saturday, December 25, 2021, and January 1, 2022). Then we will have class at Epiphany Lutheran, 268 Hill Road North, Pickerington, OH 43147 from January 8 through February 26, 2022. 
+    where: Classes resume in January at Epiphany Lutheran, 268 Hill Road North,
+      Pickerington, OH 43147 from January 8 through February 26, 2022. We will
+      then return to Pickerington Nazarene Church, March through April, 11775
+      Pickerington Road, Pickerington, OH 43147. Then, May through September, we
+      will be outside at Victory Park, across the street from Pickerington City
+      Hall at 100 Lockville Road, Pickerington, OH 43147.
   - title: FREE – 20/20/20 Fitness Class
     when: 7am every Wednesday
     what: Get rid of those extra 20 lbs from 2020! This is a combined class called
