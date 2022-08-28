@@ -5,8 +5,11 @@ sidebar:
   title: Brought to you by Darlene Kuzmic
   link: https://rogtrueelevations.com/
   contact: >-
-    Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or
-    email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
+    ![We use the Fire Station during inclement weather.](/img/fyc.jpeg
+    "Sponsored by Darlene Kuzmic, Owner, Realty ONE Group True Elevations")
+
+
+    Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
 
 
     ![FREE Yoga in the Park](/img/img_1360.jpg "Sponsored by Darlene Kuzmic, Owner, Realty ONE Group True Elevations")
