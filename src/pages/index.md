@@ -3,17 +3,23 @@ templateKey: index-page
 image: /img/screen.jpg
 sidebar:
   title: Brought to you by Darlene Kuzmic
-  link: http://teamkuzmic.com/
-  contact: Questions or comments, please call or text Darlene Kuzmic at
-    614-531-2050 or email
-    [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
+  link: https://rogtrueelevations.com/
+  contact: >-
+    Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or
+    email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
+
+
+    ![FREE Yoga in the Park](/img/img_1360.jpg "Sponsored by Darlene Kuzmic, Owner, Realty ONE Group True Elevations")
+
+
+    ![FREE Yoga in the Park](/img/img_3227.jpeg "Sponsored by Darlene Kuzmic, Owner, Realty ONE Group True Elevations")
   photo: /img/portrait.jpeg
-  logo: /img/era_logo.png
+  logo: /img/trueelevations-logo4.jpg
 healthWarning: Be sure to check with your doctor before beginning a fitness
   regimen as the instructor accepts no liability for injury or accidents
   resulting from this class.
 currentClasses:
-  - title: FREE Yoga Class
+  - title: FREE Yoga Class, Saturdays, 8am
     when: "8am every Saturday "
     what: One hour of flow yoga. We will continue to collect cash and food for the
       Pickerington food pantry, as well as used eyeglasses and used medicine
@@ -27,7 +33,7 @@ currentClasses:
       Then, April 30 through September, we will be outside at Victory Park,
       across the street from Pickerington City Hall at 100 Lockville Road,
       Pickerington, OH 43147.
-  - title: FREE – 20/20/20 Fitness Class
+  - title: FREE – 20/20/20 Fitness Class - Wednesdays at 7am
     when: 7am every Wednesday
     what: Get rid of those extra 20 lbs from 2020! This is a combined class called
       “20/20/20”. The class consists of 20 minutes step (step provided), 20
@@ -41,7 +47,7 @@ currentClasses:
       Pickerington, OH 43147. Then, May through September, we will be outside at
       Victory Park, across the street from Pickerington City Hall at 100
       Lockville Road, Pickerington, OH 43147.
-  - title: FREE Yoga Class
+  - title: FREE Yoga Class, Mondays at 6pm
     when: 6PM - 7PM, Monday evenings, May through September 2022, outside at Victory
       Park
     what: One hour of flow yoga. We will continue to collect cash and food for the
