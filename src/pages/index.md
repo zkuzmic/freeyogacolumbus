@@ -17,7 +17,7 @@ sidebar:
 
     ![FREE Yoga in the Park](/img/img_3227.jpeg "Sponsored by Darlene Kuzmic, Realtor")
   photo: /img/portrait.jpeg
-  logo: /img/portrait.jpeg
+  logo: /img/img_3229.jpeg
 healthWarning: Be sure to check with your doctor before beginning a fitness
   regimen as the instructor accepts no liability for injury or accidents
   resulting from this class.
