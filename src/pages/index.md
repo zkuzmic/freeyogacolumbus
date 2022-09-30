@@ -3,10 +3,10 @@ templateKey: index-page
 image: /img/screen.jpg
 sidebar:
   title: Brought to you by Darlene Kuzmic
-  link: https://www.Parker realty associates.com
+  link: https://www.Parkerrealtyassociates.com
   contact: >-
-    ![We use the Fire Station during inclement weather.](/img/fyc.jpeg
-    "Sponsored by Darlene Kuzmic, Owner, Realty ONE Group True Elevations")
+    ![Welcome!](/img/fyc.jpeg "Sponsored by Darlene Kuzmic, Owner, Realty ONE
+    Group True Elevations")
 
 
     Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
@@ -32,7 +32,7 @@ currentClasses:
       October 1, 2022 through December 31, 2022 - We will meet at Pickerington
       Nazarene Church at 11775 Pickerington Road, Pickerington, OH 43147. 
 
-      For these dates only, we will be at Epiphany Lutheran due to schedule conflicts at Pick Naz… 
+      For these dates ONLY, we will be at Epiphany Lutheran due to schedule conflicts at Pick Naz… 
 
       October 29, 2022
 
