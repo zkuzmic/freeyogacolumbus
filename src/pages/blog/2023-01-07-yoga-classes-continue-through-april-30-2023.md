@@ -8,6 +8,9 @@ description: >-
   Saturdays, 8am, Pickerington Nazarene Church, 11775 Pickerington Road, Pickerington, OH 43147
 
   Monday evenings, 6pm, Epiphany Lutheran Church, 268 Hill Road North, Pickerington, OH 43147
+
+
+  We have discontinued our 20/20/20 classes on Wednesdays for now... Please reach out to Darlene if you have a day and time that would work best for you and we may re-implement the classes. 
 featuredpost: true
 featuredimage: /img/img_1498.jpg
 tags:
