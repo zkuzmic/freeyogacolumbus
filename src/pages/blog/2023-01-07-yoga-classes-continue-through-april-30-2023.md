@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Yoga classes continue through April 30, 2023
 date: 2023-01-07T03:07:16.868Z
 description: >-
-  Yoga classes continue weekly through April 30, 2023:
+  Yoga classes continue weekly through April 30, 2023: 
 
   Saturdays, 8am, Pickerington Nazarene Church, 11775 Pickerington Road, Pickerington, OH 43147
 
