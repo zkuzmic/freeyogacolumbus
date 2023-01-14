@@ -3,13 +3,13 @@ templateKey: index-page
 image: /img/screen.jpg
 sidebar:
   title: Brought to you by Darlene Kuzmic, Realtor, Parker Realty Associates
-  link: https://www.Parkerrealtyassociates.com
+  link: https://www.parkerrealtyassociates.com
   contact: >-
-    ![Welcome!](/img/fyc.jpeg "Sponsored by Darlene Kuzmic, Owner, Parker Realty
-    Associates")
+    Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or
+    email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
 
 
-    Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
+    ![Welcome!](/img/fyc.jpeg "Sponsored by Darlene Kuzmic, Owner, Parker Realty Associates")
 
 
     ![FREE Yoga in the Park](/img/img_1360.jpg "Sponsored by Darlene Kuzmic, Realtor, Parker Realty Associates")
@@ -17,7 +17,7 @@ sidebar:
 
     ![FREE Yoga in the Park](/img/img_3227.jpeg "Sponsored by Darlene Kuzmic, Realtor, Parker Realty Associates")
   photo: /img/portrait.jpeg
-  logo: /img/img_3229.jpeg
+  logo: /img/dark-horizontal.png
 healthWarning: Be sure to check with your doctor before beginning a fitness
   regimen as the instructor accepts no liability for injury or accidents
   resulting from this class.
