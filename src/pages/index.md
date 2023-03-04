@@ -3,13 +3,13 @@ templateKey: index-page
 image: /img/screen.jpg
 sidebar:
   title: Brought to you by Darlene Kuzmic, Realtor, Parker Realty Associates
-  link: https://www.parkerrealtyassociates.com
+  link: https://darlenekuzmic2.topproducerwebsite.com/?q=0.8835301181331974
   contact: >-
     Questions or comments, please call or text Darlene Kuzmic at 614-531-2050 or
     email [darlenekuzmic@gmail.com](mailto:darlenekuzmic@gmail.com).
 
 
-    ![Welcome!](/img/fyc.jpeg "Sponsored by Darlene Kuzmic, Owner, Parker Realty Associates")
+    ![Welcome!](/img/fyc.jpeg "Sponsored by Darlene Kuzmic, Realtor, Parker Realty Associates")
 
 
     ![FREE Yoga in the Park](/img/img_1360.jpg "Sponsored by Darlene Kuzmic, Realtor, Parker Realty Associates")
