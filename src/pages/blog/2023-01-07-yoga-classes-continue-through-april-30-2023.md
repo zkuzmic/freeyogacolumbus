@@ -16,6 +16,6 @@ featuredimage: /img/img_1498.jpg
 tags:
   - "#freeyogacolumbus"
 ---
-W﻿e do collect for charities at our weekly events - cash and food for our Pickerington Food Pantry, cash donations to the church allowing us to use the space, used eyeglasses for the Pickerington Lions Club, as well as used medicine bottles (red, blue or green). 
+We do collect for charities at our weekly events - cash and food for our Pickerington Food Pantry, cash donations to the church allowing us to use the space, used eyeglasses for the Pickerington Lions Club, as well as used medicine bottles. 
 
-P﻿lease, bring your own mat and water bottle. Call or text me 614-531-2050 for any questions.
+Please, bring your own mat and water bottle. Call or text me 614-531-2050 for any questions.
