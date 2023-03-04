@@ -24,18 +24,20 @@ healthWarning: Be sure to check with your doctor before beginning a fitness
 currentClasses:
   - title: FREE Yoga Class, Saturdays, 8am
     when: "8am every Saturday "
-    what: One hour of flow yoga. We will continue to collect cash and food for the
-      Pickerington food pantry, as well as used eyeglasses and used medicine
-      bottles, red and blue, for the Pickerington Lions Club. Please bring your
-      own mat and water bottle.
+    what: >-
+      One hour of flow yoga. Yoga class is FREE! Please bring your own mat and
+      water bottle.  
+
+      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses and used medicine bottles collected for Pickerington Lions Club. 
     where: >
       January 1, 2023 through April 30, 2023 - We will meet at Pickerington
       Nazarene Church at 11775 Pickerington Road, Pickerington, OH 43147. 
   - title: FREE Yoga Class, Mondays at 6pm
     when: 6PM - 7PM, every Monday evening January 1, 2023 through April 30, 2023
-    what: One hour of flow yoga. We will continue to collect cash and food for the
-      Pickerington food pantry, as well as used eyeglasses and used medicine
-      bottles, red and blue, for the Pickerington Lions Club. Please bring your
-      own mat and water bottle.
+    what: >-
+      One hour of flow yoga. Yoga class is FREE! Please bring your own mat and
+      water bottle. 
+
+      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses and used medicine bottles collected for Pickerington Lions Club. 
     where: "Epiphany Lutheran Church, 268 Hill Road North, Pickerington OH 43147. "
 ---
