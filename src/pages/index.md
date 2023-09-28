@@ -22,9 +22,10 @@ healthWarning: Be sure to check with your doctor before beginning a fitness
   regimen as the instructor accepts no liability for injury or accidents
   resulting from this class.
 currentClasses:
-  - title: FREE Yoga Class, Saturdays, 8am, Pickerington Nazarene Church, 11775
-      Pickerington Road, Pickerington, OH 43147 - every Saturday
-    when: "8am every Saturday "
+  - title: "FREE Yoga Class, Saturdays, 8am, Pickerington Nazarene Church, 11775
+      Pickerington Road, Pickerington, OH 43147 "
+    when: 8am every Saturday morning, October 1, 2023 to April 30, 2024 - every
+      Saturday
     what: >-
       One hour of flow yoga. Yoga class is FREE! Please bring your own mat and
       water bottle.  
@@ -39,7 +40,8 @@ currentClasses:
 
 
       We go outdoors May 1 through September 30 each year, Victory Park, across from Pickerington City Hall, 100 Lockville Road, Pickerington, OH 43147
-  - title: FREE Yoga Class, Mondays at 6pm
+  - title: FREE Yoga Class, Mondays at 6pm - Epiphany Lutheran Church, 268 Hill Road
+      North, Pickerington, OH 43147 - every Monday
     when: >+
       6PM - 7PM, every Monday evening October 1, 2023 to April 30, 2024 - every
       Monday
