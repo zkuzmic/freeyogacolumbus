@@ -17,44 +17,39 @@ sidebar:
 
     ![FREE Yoga in the Park](/img/img_3227.jpeg "Sponsored by Darlene Kuzmic, Realtor, Parker Realty Associates")
   photo: /img/portrait.jpeg
-  logo: /img/dark-horizontal.png
+  logo: /img/logo-complete.jpg
 healthWarning: Be sure to check with your doctor before beginning a fitness
   regimen as the instructor accepts no liability for injury or accidents
   resulting from this class.
 currentClasses:
-  - title: "FREE Yoga Class, Saturdays, 8am, Pickerington Nazarene Church, 11775
-      Pickerington Road, Pickerington, OH 43147 "
-    when: 8am every Saturday morning, October 1, 2023 to April 30, 2024 - every
+  - title: "FREE Yoga Class, Saturdays, 8am, Victory Park, 101 Lockville Road
+      ,Pickerington, OH 43147 "
+    when: 8am every Saturday morning, May 1, 2024 to September 29, 2024 - every
       Saturday
     what: >-
       One hour of flow yoga. Yoga class is FREE! Please bring your own mat and
       water bottle.  
 
-      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses and used medicine bottles collected for Pickerington Lions Club. 
-    where: >
-      October 1, 2023 through April 30, 2024 - We will meet at Pickerington
-      Nazarene Church at 11775 Pickerington Road, Pickerington, OH 43147. Dates
-      that we may have to change locations: October 28, 2023, January 6, 2024,
-      February 10, 2024, April 6, 2024. Please check back occasionally for
-      updates to the location on these dates.
+      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses are collected for Pickerington Lions Club. 
+    where: >+
+      May 1, 2024 through September 30, 2024 - We will meet at Victory Park, 101
+      Lockville Road, , Pickerington, OH 43147. Dates that we may have to change
+      locations:  Please check back occasionally for updates to the location on
+      these dates.
 
 
-      We go outdoors May 1 through September 30 each year, Victory Park, across from Pickerington City Hall, 100 Lockville Road, Pickerington, OH 43147
-  - title: FREE Yoga Class, Mondays at 6pm - Epiphany Lutheran Church, 268 Hill Road
-      North, Pickerington, OH 43147 - every Monday
+  - title: FREE Yoga Class, Mondays at 6pm - Victory Park, 101 Lockville Road,
+      Pickerington, OH 43147 - every Monday
     when: >+
-      6PM - 7PM, every Monday evening October 1, 2023 to April 30, 2024 - every
+      6PM - 7PM, every Monday evening May 1, 2024 to September 30, 2024 - every
       Monday
 
     what: >-
       One hour of flow yoga. Yoga class is FREE! Please bring your own mat and
       water bottle. 
 
-      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses and used medicine bottles collected for Pickerington Lions Club. 
-    where: >-
-      October 1, 2023 through April 30, 2024 - We will meet at Epiphany Lutheran
-      Church, 268 Hill Road North, Pickerington OH 43147. 
-
-
-      We go outdoors May 1 through September 30 each year, Victory Park, across from Pickerington City Hall, 100 Lockville Road, Pickerington, OH 43147
+      Donations of cash or food accepted for the Pickerington Food Pantry. Used eyeglasses are being collected for Pickerington Lions Club. 
+    where: >+
+      May 1, 2024 through September 30, 2024  - We will meet at Victory Park 101
+      Lockville Road, Pickerington OH 43147.
 ---
