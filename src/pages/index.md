@@ -38,8 +38,12 @@ currentClasses:
       these dates.
 
 
-  - title: FREE Yoga Class, Mondays at 6pm - Victory Park, 101 Lockville Road,
+  - title: >-
+      FREE Yoga Class, Mondays at 6pm - Victory Park, 101 Lockville Road,
       Pickerington, OH 43147 - every Monday
+
+
+      THERE WILL BE NO YOGA ON MONDAY, MAY 27, 2024 (MEMORIAL DAY)
     when: >+
       6PM - 7PM, every Monday evening May 1, 2024 to September 30, 2024 - every
       Monday
